@@ -1,0 +1,18 @@
+{
+  "name": "mock-services",
+  "version": "1.0.0",
+  "description": "mock services",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "json-server db.json --routes routes.json"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "sendhil.r@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.12.0"
+  }
+}

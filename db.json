@@ -1,0 +1,74 @@
+{
+  "salesOrderTypes": [
+    {
+        "Description": "Account Order",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "Account",
+        "WithdrawnDate": "/Date(1504183186829+0100)/"
+    },
+    {
+        "Description": "Black Friday Specials",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "Black Friday",
+        "WithdrawnDate": "/Date(1504183186830+0100)/"
+    },
+    {
+        "Description": "Customer Paid Orders",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "Customer Paid",
+        "WithdrawnDate": "/Date(1504183186830+0100)/"
+    },
+    {
+        "Description": "DB Statement Style",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "DBStatement",
+        "WithdrawnDate": "/Date(1504183186830+0100)/"
+    },
+    {
+        "Description": "Export Orders",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "Export",
+        "WithdrawnDate": "/Date(1504183186830+0100)/"
+    },
+    {
+        "Description": "Immediate Despatch",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "Immediate Despatch",
+        "WithdrawnDate": "/Date(1504183186830+0100)/"
+    },
+    {
+        "Description": "Catalogue Sales",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "Mail Order",
+        "WithdrawnDate": "/Date(1504183186830+0100)/"
+    },
+    {
+        "Description": "Mail Order/Telephone Order",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "MOTO",
+        "WithdrawnDate": "/Date(1504183186830+0100)/"
+    },
+    {
+        "Description": "Opening Offer",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "Opening Offer",
+        "WithdrawnDate": "/Date(1504183186830+0100)/"
+    },
+    {
+        "Description": "Trade Counter",
+        "IsSystemDefault": false,
+        "IsWithdrawn": false,
+        "OrderTypeCode": "Trade Counter",
+        "WithdrawnDate": "/Date(1504183186830+0100)/"
+    }
+  ]
+}
