@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "start": "json-server db.json --routes routes.json"
+    "start": "json-server db.json --routes routes.json",
+    "start-blog": "json-server db2.json"
   },
   "keywords": [
     "mock"
